@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npm run test",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Srighan Vedere",
   "license": "ISC",
